@@ -1,0 +1,33 @@
+body {
+    background: #D6EFC7 !important;
+}
+header {
+    padding: 20px;
+    h1 {
+        font-size: 2rem;
+        color: #184D47;
+    }
+}
+
+.section-banner {
+    margin: 30px;
+    .banner {
+        text-align: center;
+        img {
+            width: 50%;
+        }
+    }
+}
+
+.section-todo {
+    margin: 50px 0;
+}
+
+.section-list-todo {
+    .todo {
+        background: white;
+        border-radius: 8px;
+        box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+        padding: 10px;
+    }
+}
